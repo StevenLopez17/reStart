@@ -1,1 +1,12 @@
 
+valores=[1,2,3,4,5,6,"a",7,8,"zzzzz",9,34,65,76,87,98,54]
+suma=0
+for val in valores:
+   Try:
+
+    valores = int
+    suma+=val
+            Print(“la suma Es”+suma)       
+
+   Except ValueError:
+     Print(“no se permite valores alfabéticos”)
