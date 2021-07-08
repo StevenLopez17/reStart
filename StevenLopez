@@ -4,9 +4,9 @@ suma=0
 for val in valores:
    Try:
 
-    valores = int
+  
     suma+=val
-            Print(“la suma Es”+suma)       
+    Print(“la suma Es”+suma)       
 
    Except ValueError:
      Print(“no se permite valores alfabéticos”)
